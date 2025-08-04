@@ -65,6 +65,3 @@ A análise RFM permitiu segmentar a base de clientes. Com as métricas de Recên
     `git clone https://github.com/dencode7/analise-vendas-online.git`
 2.  **Navegue para a pasta do projeto:**
     `cd analise-vendas-online`
-3.  **Inicie o Jupyter Notebook:**
-    `jupyter notebook`
-4.  Abra o arquivo `notebooks/analise_vendas.ipynb` para ver a análise completa.
